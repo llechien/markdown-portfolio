@@ -1,0 +1,1 @@
+![Image of simulation of T-Rex running](https://cnet4.cbsistatic.com/img/qeAX8LFzZtL4i8Z5G_4qPN_52U4=/970x0/2017/07/18/844642df-660e-4595-863a-ffd3f3f6ceba/1.png)
