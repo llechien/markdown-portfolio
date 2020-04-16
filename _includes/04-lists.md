@@ -1,1 +1,14 @@
-Replace this with a list of your favorite things.
+- apples
+- oranges
+- grapefruits
+- grapes
+- berries of all sorts
+- spinach
+- chickpeas
+- beans of all kinds
+- electronic music
+- foreign cultures
+- bicycles
+- markdown
+- coffee beans
+- books and texbooks
